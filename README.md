@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040094
+# Name: Girishva.K
+# Date: 
 
 
 # AIM:
@@ -38,6 +38,8 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="834" height="730" alt="image" src="https://github.com/user-attachments/assets/f86d195d-d885-425c-b389-4e9ee3344f46" />
+
 
 
 
@@ -58,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1077" height="873" alt="image" src="https://github.com/user-attachments/assets/b5324668-ba1c-4559-9cc1-180126bceb13" />
 
 
 # COMMUNICTION DIAGRAM:
